@@ -51,8 +51,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/piotrek-k/2dTaskBoard.git
-        tag: v0.4.3
-        commit: 1b0fd4aeeb38fed06cf38c6588a4fc3f05d0ca01
+        tag: v0.4.4
+        commit: 6442a2211f5a81ce3df82a5a8fbf761e4999ba5e
         dest: main
       - generated-sources-desktop.json
       - generated-sources-web.json
